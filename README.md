@@ -16,3 +16,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+
+Now you're all set to build awesome movie backend server! 🌟
+
+For more details, visit [MultiQoS.](https://multiqos.com/)
+Contact us for collaboration or support:
+Email: biz@multiqos.com
