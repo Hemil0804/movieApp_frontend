@@ -18,6 +18,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 
+
 Now you're all set to build awesome movie Website! 🌟
 
 For more details, visit [MultiQoS.](https://multiqos.com/)
